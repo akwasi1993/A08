@@ -6,12 +6,14 @@ body {
 
 /* the styles for the header */
 header img {
-	float: left;
+	float: right;
 }
 
 /* the styles for the section */
 main {
 	clear: left;
 }
-
+footer{
+	color: red;
+}
 /* the styles for the footer */
